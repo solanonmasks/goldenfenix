@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# Once the site has its own domain, you can add a sitemap line, e.g.:
+# Sitemap: https://www.example.com/sitemap.xml
